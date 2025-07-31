@@ -26,8 +26,8 @@ npm install lucide-react
 npm run dev
 ```
 
-### 4. ดูผลลัพธ์หน้าเว็บ
+### 4. ดูผลลัพธ์หน้าเว็บ เปิดเว็บเบราเซอร์แล้วเข้า
 
 ```bash
-เปิดเว็บเบราเซอร์แล้วเข้า http://localhost:3000
+http://localhost:3000
 ```
