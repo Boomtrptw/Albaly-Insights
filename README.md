@@ -7,27 +7,25 @@
 ## ขั้นตอนการติดตั้งและใช้งาน
 
 ### 1. โคลน (Clone) โปรเจ็คลงมาในเครื่อง
-
 ```bash
 git clone https://github.com/Boomtrptw/Albaly-Insights.git
 cd Albaly-Insights
 ```
 
 ### 2. ติดตั้ง dependencies (แพ็กเกจต่างๆ)
-
 ```bash
 npm install,
 npm install lucide-react
+
+Node version v22.17.1
 ```
 
 ### 3.รันเซิร์ฟเวอร์พัฒนา (Development Server)
-
 ```bash
 npm run dev
 ```
 
 ### 4. ดูผลลัพธ์หน้าเว็บ เปิดเว็บเบราเซอร์แล้วเข้า
-
 ```bash
 http://localhost:3000
 ```
